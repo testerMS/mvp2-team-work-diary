@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# EUC-KR 등 시험용 메일의 바이트가 바뀌지 않게 한다
+*.eml -text
+*.csv -text

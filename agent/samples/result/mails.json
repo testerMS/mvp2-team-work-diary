@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-24",
+  "stats": {
+    "수집": 11,
+    "광고 제외": 3,
+    "받은 업무 메일": 4,
+    "본인 메일": 3,
+    "보낸 메일": 1
+  },
+  "warnings": [],
+  "mails": [
+    {
+      "id": "M01",
+      "kind": "received",
+      "time": "08:40",
+      "from": "김팀장",
+      "subject": "3분기 실적 자료 제출 요청",
+      "body": "안녕하세요.\n3분기 실적 자료를 11월 26일까지 제출해 주세요.\n감사합니다.",
+      "attachments": [],
+      "folder": "mailbox",
+      "flags": []
+    },
+    {
+      "id": "M02",
+      "kind": "received",
+      "time": "09:12",
+      "from": "대성오토 구매팀",
+      "subject": "[긴급] 브레이크 패드 납기 회신 요청",
+      "body": "안녕하세요 대성오토입니다.\n브레이크 패드 500개 납기 일정을 오늘 중으로 회신 부탁드립니다.\n문의: [전화번호 가림]",
+      "attachments": [],
+      "folder": "mailbox",
+      "flags": []
+    },
+    {
+      "id": "M03",
+      "kind": "sent",
+      "time": "10:05",
+      "from": "mycompany.example 발신자",
+      "subject": "견적서 송부",
+      "body": "요청하신 견적서를 첨부합니다.",
+      "attachments": [
+        "견적서_한빛.pdf"
+      ],
+      "folder": "mailbox",
+      "flags": []
+    },
+    {
+      "id": "M04",
+      "kind": "self",
+      "time": "11:20",
+      "from": "나",
+      "subject": "업무 메모",
+      "body": "완료:\n- 한빛정공 견적서 작성 및 발송\n- 안전교육 이수\n할 일:\n- 신규 거래처 등록 서류 준비 11/27까지\n내일:\n- 오전 10시 주간회의 참석",
+      "attachments": [],
+      "folder": "mailbox",
+      "flags": []
+    },
+    {
+      "id": "M05",
+      "kind": "received",
+      "time": "13:10",
+      "from": "이주임",
+      "subject": "생산 라인 점검 결과 공유",
+      "body": "2라인 점검 결과 이상 없음을 공유드립니다. 업무에 참고 바랍니다.",
+      "attachments": [],
+      "folder": "mailbox",
+      "flags": []
+    },
+    {
+      "id": "M06",
+      "kind": "self",
+      "time": "14:00",
+      "from": "나",
+      "subject": "내일 워크숍 장소 확인",
+      "body": "",
+      "attachments": [],
+      "folder": "mailbox",
+      "flags": []
+    },
+    {
+      "id": "M07",
+      "kind": "received",
+      "time": "15:45",
+      "from": "박대리",
+      "subject": "Re: 도면 수정 건",
+      "body": "도면 검토 의견 확인했습니다.\n수정본은 다음 주 월요일까지 보내 주시기 바랍니다.",
+      "attachments": [],
+      "folder": "mailbox",
+      "flags": []
+    },
+    {
+      "id": "M08",
+      "kind": "self",
+      "time": "16:00",
+      "from": "나",
+      "subject": "오전 메모",
+      "body": "[x] 10월 정산표 검토\n[ ] 차량 점검 예약",
+      "attachments": [],
+      "folder": "mailbox",
+      "flags": []
+    }
+  ],
+  "mailbox": "mailbox",
+  "author": "홍길동(가상)"
+}

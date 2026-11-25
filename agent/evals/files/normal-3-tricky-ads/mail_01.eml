@@ -1,0 +1,24 @@
+Subject: =?utf-8?b?MTHsm5Qg6rSR6rOgIOyLnOyViCDqsoDthqAg7JqU7LKt?=
+To: me@mycompany.example
+Date: Tue, 24 Nov 2026 09:00:00 +0900
+From: =?utf-8?b?7JWg65Oc65SU7J6Q7J24?= <pm@addesign.example>
+Message-ID: <3131ec9b9420eab491eab3a020ec8b9cec958820.0900@mail.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4792904520478304621=="
+
+--===============4792904520478304621==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+6rSR6rOgIOyLnOyViCAy7KKF7J2EIOuztOuCtOuTnOumveuLiOuLpC4gMTHsm5QgMjfsnbzquYzs
+p4Ag6rKA7YagIOydmOqyrCDrtoDtg4Hrk5zrpr3ri4jri6QuCg==
+
+--===============4792904520478304621==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename*=utf-8''%EC%8B%9C%EC%95%88.zip
+MIME-Version: 1.0
+
+c2FtcGxl
+
+--===============4792904520478304621==--

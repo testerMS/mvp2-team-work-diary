@@ -1,0 +1,24 @@
+Subject: =?utf-8?b?6rKs7KCB7IScIOyGoeu2gA==?=
+To: park@hanbit.example
+Date: Tue, 24 Nov 2026 10:05:00 +0900
+From: me@mycompany.example
+Message-ID: <eab2aceca081ec849c20ec86a1ebb680.1005@mail.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0808237154888908767=="
+
+--===============0808237154888908767==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+요청하신 견적서를 첨부합니다.
+
+--===============0808237154888908767==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%EA%B2%AC%EC%A0%81%EC%84%9C_%ED%95%9C%EB%B9%9B.pdf
+MIME-Version: 1.0
+
+c2FtcGxl
+
+--===============0808237154888908767==--
